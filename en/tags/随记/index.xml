@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>随记 on </title>
+    <link>http://localhost:1313/en/tags/%E9%9A%8F%E8%AE%B0/</link>
+    <description>Recent content in 随记 on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>CHANGE ME</copyright>
+    <lastBuildDate>Fri, 14 Jun 2024 10:38:07 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/%E9%9A%8F%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>随记一则</title>
+      <link>http://localhost:1313/en/posts/suiji_yi_ze/</link>
+      <pubDate>Fri, 14 Jun 2024 10:38:07 +0800</pubDate>
+      <guid>http://localhost:1313/en/posts/suiji_yi_ze/</guid>
+      <description>昨日表叔来深圳，下班后过去一起坐了坐。期间有些话如醍醐灌顶，幡然醒悟&#xA;** 控制情绪 or 随心所用 ** 人的情绪：喜怒哀乐</description>
+    </item>
+  </channel>
+</rss>
